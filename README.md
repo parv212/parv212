@@ -1,5 +1,8 @@
 ### Hi there 👋
 I am **Parv Thakkar**, a passionate **Data Scientist** with experience in Machine Learning and Data Engineering. Currently enhancing my skills at Northeastern University, I've contributed to diverse projects in data analysis and machine learning during internships at companies like Point Focal and Tomtom. My focus is on using Python, R, and various data tools to drive impactful data-driven solutions.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!--
 **parv212/parv212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- section-intro -->
-
-📈 My GitHub stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parv212&show_icons=true&theme=gotham" alt="parv212" />
