@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am **Parv Thakkar**, a skilled Data Scientist specializing in Data Engineering, Analytics, and Machine Learning.
 
 <!--
 **parv212/parv212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- section-intro -->
+
+📈 My GitHub stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parv212&show_icons=true&theme=gotham" alt="parv212" />
