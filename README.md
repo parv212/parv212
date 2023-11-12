@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am **Parv Thakkar**, a skilled Data Scientist specializing in Data Engineering, Analytics, and Machine Learning.
-
+I am **Parv Thakkar**, a passionate **Data Scientist** with experience in Machine Learning and Data Engineering. Currently enhancing my skills at Northeastern University, I've contributed to diverse projects in data analysis and machine learning during internships at companies like Point Focal and Tomtom. My focus is on using Python, R, and various data tools to drive impactful data-driven solutions.
 <!--
 **parv212/parv212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
